@@ -1,4 +1,7 @@
 # Music-Player
+**Website link:**
+https://manjisha24.github.io/Music-Player/
+
 **Introduction:**
 
 In a world driven by music, this project aims to create a versatile and user-friendly music player that caters to both convenience and control. Developed using HTML, CSS, and JavaScript, this music player is optimized for mobile devices, ensuring a seamless music listening experience. It features two distinct player modes: a compact mini player for quick controls, and a full player with comprehensive functionality, including song repetition, volume control, and playlist management.
